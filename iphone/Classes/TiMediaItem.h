@@ -9,6 +9,7 @@
 
 #import <Foundation/Foundation.h>
 #import <MediaPlayer/MediaPlayer.h>
+// FIXME: Forward declare
 #import <TitaniumKit/TiBlob.h>
 #import <TitaniumKit/TiProxy.h>
 

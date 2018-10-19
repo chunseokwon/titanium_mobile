@@ -9,6 +9,7 @@
 
 #import "TiDOMDocumentProxy.h"
 #import <TitaniumKit/APSHTTPClient.h>
+// FIXME: Forward declare
 #import <TitaniumKit/TiBlob.h>
 #import <TitaniumKit/TiProxy.h>
 

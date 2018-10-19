@@ -6,7 +6,6 @@
  */
 #ifdef USE_TI_UIWEBVIEW
 
-#import <TitaniumKit/TiBlob.h>
 #import <TitaniumKit/TiHost.h>
 #import <TitaniumKit/TiUtils.h>
 
